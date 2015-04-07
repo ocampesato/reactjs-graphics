@@ -8,10 +8,17 @@ This swatch-like collection contains many code samples that contain minor variat
 The code samples in the subdirectories are based on various polar equations, such as Archimedean spirals, Cissoids, Cochleoids, Conchoids, Lissajous curves, and Lituus curves.
 
 Additional graphics code samples involving CSS3, HTML5 Canvas, D3, and jQuery/CSS3 are here: 
+```
 https://github.com/ocampesato/css3-graphics 
 https://github.com/ocampesato/d3-graphics 
 https://github.com/ocampesato/html5-graphics 
 https://github.com/ocampesato/jquery-css3-graphics
-
+```
+If you've looked at the preceding repos and you still want more, take a look at these repos:
+```
+https://github.com/ocampesato/angular-graphics
+https://github.com/ocampesato/threejs-graphics
+https://github.com/ocampesato/twojs-graphics
+https://github.com/ocampesato/web-animations
+```
 Enjoy!
-

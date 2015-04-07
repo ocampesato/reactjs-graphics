@@ -1,13 +1,11 @@
 reactjs-graphics
 ================
 
-This repository contains an assortment of code samples that illustrate how to create SVG-based graphics effects using ReactJS.
-
-This swatch-like collection contains many code samples that contain minor variations of colors or shapes, and they are included in this project for your convenience.
+This repository contains a vast assortment of code samples that illustrate how to create SVG-based graphics effects using ReactJS. This "swatch-like" collection contains many code samples with minor variations of colors or shapes, included for your convenience, and feel free to tweak them with more aesthetically appealing color values (typically in a "colors" array that is used throughout the code samples).
 
 The code samples in the subdirectories are based on various polar equations, such as Archimedean spirals, Cissoids, Cochleoids, Conchoids, Lissajous curves, and Lituus curves.
 
-Additional graphics code samples involving CSS3, HTML5 Canvas, D3, and jQuery/CSS3 are here: 
+Additional (often similar) graphics code samples involving CSS3, HTML5 Canvas, D3, and jQuery/CSS3 are here: 
 ```
 https://github.com/ocampesato/css3-graphics 
 https://github.com/ocampesato/d3-graphics 
